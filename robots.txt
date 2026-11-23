@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://KORISNIK.github.io/pridjev-escape/sitemap.xml
+Sitemap: https://pridjevi-escape.onrender.com/sitemap.xml

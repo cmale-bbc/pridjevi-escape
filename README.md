@@ -2,7 +2,7 @@
 
 Besplatni online **escape room kviz o pridjevima** za učenike 3. razreda osnovne škole (hrvatski jezik).
 
-**Igraj:** https://KORISNIK.github.io/pridjev-escape/
+**Igraj:** https://pridjevi-escape.onrender.com/
 
 ## Priča
 
